@@ -43,7 +43,9 @@ public class DayIdTest {
         String actualResult = dayId.getDay(i);
         System.out.println(actualResult);
         Assert.assertEquals("Monday",actualResult);
-    }
+           }
+
+
 
 
 //    @Test
