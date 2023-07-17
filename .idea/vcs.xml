@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/codewithmosh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LenaFirstRepository" vcs="Git" />
   </component>
 </project>
